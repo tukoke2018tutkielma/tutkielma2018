@@ -1,0 +1,7 @@
+[package]
+name = "java_to_rust"
+version = "0.1.0"
+authors = ["TUTKIELMA ANONYMOUS <anon@tukoke2018.33mail.com>"]
+
+[dependencies]
+walkdir = "2"
